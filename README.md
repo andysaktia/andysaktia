@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about JS and Jekyll blog
 - 👯 I’m looking to collaborate on project javascript 
 
-[[Proyeku »](https://andysaktia.github.io/)]
+[[Proyeku ...](https://andysaktia.github.io/)]
 
 
 <!--
