@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning about JS and Jekyll blog
 - 👯 I’m looking to collaborate on project javascript 
+
+[Proyeku](https://andysaktia.github.io/)
 <!--
 **andysaktia/andysaktia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
