@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Andy Saktia
+### Hi there 👋 I'm Andy
 
 I'm an experienced Web Developer working remotely from Indonesia.
 
