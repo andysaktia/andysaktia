@@ -1,22 +1,8 @@
-### Hi there 👋 
+### Hi there 👋 I'm Andy Saktia
 
-- 🌱 I’m currently learning about JS and Jekyll blog
-- 👯 I’m looking to collaborate on project javascript 
+I'm an experienced Web Developer working remotely from Indonesia.
 
+For over 10 years, I've developed various websites using JavaScript, PHP, and frameworks like React and Next.js, including unique projects such as BaDeNo and SABDA Live. I've also led IT projects using Scrum methodology.
 
-[ [Proyeku...](https://andysaktia.github.io/) ]
+🔭 I'm currently focusing on mastering Next.js and Python scripting to build more innovative tools and websites.
 
-<!--
-**andysaktia/andysaktia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
